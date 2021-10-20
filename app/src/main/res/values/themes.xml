@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyApp_Oder" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/mauchu</item>
+        <item name="colorPrimaryVariant">@color/mauchu</item>
+        <item name="colorOnPrimary">@color/mautrove</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/mautrove</item>
+        <item name="colorSecondaryVariant">@color/mautrove</item>
+        <item name="colorOnSecondary">@color/mautrove</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
